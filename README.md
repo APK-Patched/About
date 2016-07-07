@@ -43,8 +43,8 @@ Email发送到 dxy180@gmail.com 联系我。
 ⒈ 如你想转载此处破解APK相关技术资料，请注明出处(https://github.com/APK-Patched)！
 这是最基本的，不要学某些厚脸无耻的人，明明是转载的，却厚着脸皮自称原创、全球首发等让人作呕！请这种人自律！
 
-⒉ 此处所有破解APK技术资料均<body bgcolor="#4E4E4E"><font color=#A0A0FF> 免费提供 </font></body>！
-转载者转载后不得以 <body bgcolor="#4E4E4E"><font color=#A0A0FF>收费或设置回复可见或需积分或需各种币</font></body> 等方式限制查看破解APK技术资料！
+⒉ 此处所有破解APK技术资料均<body style="background:#A0A0FF"><span style="color:#4E4E4E"> 免费提供 </span></body>！
+转载者转载后不得以 <body style="background:#A0A0FF"><span style="color:#4E4E4E">收费或设置回复可见或需积分或需各种币</span></body> 等方式限制查看破解APK技术资料！
 
 <b>如果你不能接受并遵守上述条款，你不得转载 APK-Patched 所提供的破解APK技术资料！
 如果你强行非法转载，由此引发的一切后果自负！</b>
